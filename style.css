@@ -33,7 +33,7 @@
    --bg-color: #080808;
    --second-bg-color: #161616;
    --text-color: white;
-   --main-color: #00ffee; 
+   --main-color: #00eeff; 
   --first-color: hsl(216, 96%, 64%);
   --white-color: hsl(0, 0%, 100%);
   --dark-color: hsl(216, 26%, 11%);
@@ -342,7 +342,8 @@ border-radius: 50%;
 }
 .home-img img{
 position: relative;
-width: 32vw;
+width: 300px;
+height: 300px;
 border-radius: 50%;
 box-shadow: 0 0 25px var(--main-color);
 transition: 0.3s ease-in-out;
